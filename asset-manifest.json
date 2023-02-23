@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-typescript-deploy/static/css/main.e4c30096.css",
+    "main.js": "/first-typescript-deploy/static/js/main.6782decb.js",
+    "index.html": "/first-typescript-deploy/index.html",
+    "main.e4c30096.css.map": "/first-typescript-deploy/static/css/main.e4c30096.css.map",
+    "main.6782decb.js.map": "/first-typescript-deploy/static/js/main.6782decb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c30096.css",
+    "static/js/main.6782decb.js"
+  ]
+}
