@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
 )
 
 root.render(
-  <BrowserRouter basename="react-typescript-deploy-test/">
+  <BrowserRouter basename="/react-typescript-deploy-test/">
     <ModalState>
       <App />
     </ModalState>
