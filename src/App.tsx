@@ -11,8 +11,8 @@ return (
   <>
     <Navigation />
     <Routes>
-      <Route path="/" element={<ProductsPage />} />
-      <Route path="/about" element={<AboutPage />} />
+      <Route path="react-typescript-deploy-test/" element={<ProductsPage />} />
+      <Route path="react-typescript-deploy-test/about" element={<AboutPage />} />
     </Routes>
   </>
 )
